@@ -12,6 +12,10 @@
     <Name>PathFinderAStar</Name>
     <RootNamespace>PathFinderAStar</RootNamespace>
     <InterpreterId>Global|PythonCore|3.6</InterpreterId>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterArguments>
+    </InterpreterArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
